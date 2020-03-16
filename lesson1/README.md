@@ -5,3 +5,5 @@
 | 学号 |BNS 域名、子域名 | Netlify 地址 |
 |---|---|---|
 | 000 | gavin.id | https://upbeat-yonath-bca9ef.netlify.com |
+| 022 | oneblockplus.id | https://serene-brown-8d414f.netlify.com |
+
