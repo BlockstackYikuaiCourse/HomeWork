@@ -8,5 +8,6 @@
 | 019 | zhuangjun.id | https://animal-kingdom-zhuangjun.netlify.com/ |
 | 020 | jasonrzx.id.blockstack | https://jsrzx.netlify.com |
 | 022 | oneblockplus.id | https://serene-brown-8d414f.netlify.com |
+| 026 | eri0xzhang.id.blockstack | https://animalkingdom-eri0x.netlify.com/ |
 
 
