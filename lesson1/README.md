@@ -4,7 +4,7 @@
 
 | 学号 |BNS 域名、子域名 | Netlify 地址 |
 |---|---|---|
-| 023 | yadongcao.id.blockstack | --- |
+| 023 | yadongcao.id.blockstack | https://blockstackyadongcao.netlify.com/ |
 
->>> 网站部署一直没成功，试了很多次
+
 
