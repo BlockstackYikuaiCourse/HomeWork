@@ -7,6 +7,7 @@
 | 000 | gavin.id | https://upbeat-yonath-bca9ef.netlify.com |
 | 008 | wangyang.id | https://suspicious-perlman-04da6a.netlify.com |
 | 009 | tingalin.id.blockstack | https://animal-kingdom-tingalin.netlify.com |
+| 010 | yixiuyixiu.id | https://animal-yixiu.netlify.com/ |
 | 019 | kuoyehshen.id.blockstack | https://kuoyehs.netlify.com |
 | 018 | zhuangjun.id | https://animal-kingdom-zhuangjun.netlify.com/ |
 | 020 | jasonrzx.id.blockstack | https://jsrzx.netlify.com |
