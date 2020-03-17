@@ -14,3 +14,4 @@
 | 020 | jasonrzx.id.blockstack | https://jsrzx.netlify.com |
 | 022 | oneblockplus.id | https://serene-brown-8d414f.netlify.com |
 | 017 | qinyouyi.id.blockstack | just-a-test-site.netlify.com |
+| 005 | leapming.id.blockstack | https://vigorous-shockley-dcaba7.netlify.com |
