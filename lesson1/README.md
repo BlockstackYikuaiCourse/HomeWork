@@ -4,8 +4,7 @@
 
 | 学号 |BNS 域名、子域名 | Netlify 地址 |
 |---|---|---|
-| 000 | gavin.id | https://upbeat-yonath-bca9ef.netlify.com |
-| 019 | zhuangjun.id | https://animal-kingdom-zhuangjun.netlify.com/ |
-| 022 | oneblockplus.id | https://serene-brown-8d414f.netlify.com |
+| 023 | yadongcao.id.blockstack | --- |
 
+>>> 网站部署一直没成功，试了很多次
 
