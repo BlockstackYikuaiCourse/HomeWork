@@ -15,3 +15,4 @@
 | 020 | jasonrzx.id.blockstack | https://jsrzx.netlify.com |
 | 022 | oneblockplus.id | https://serene-brown-8d414f.netlify.com |
 | 017 | qinyouyi.id.blockstack | just-a-test-site.netlify.com |
+| 022 | dannysun85.id.blockstack | https://dannysun85.netlify.com |
