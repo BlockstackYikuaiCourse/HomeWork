@@ -20,3 +20,4 @@
 | 025 | fanjinhui.id.blockstack | fanjinhui.netlify.com |
 | 026 | eri0xzhang.id.blockstack | https://animalkingdom-eri0x.netlify.com/ |
 | 029 | blockstackdrun.id.blockstack | https://infallible-montalcini-6ea88e.netlify.com |
+| 029 | kendallwu.id | https://animalkingdom-kendall.netlify.com/ |
