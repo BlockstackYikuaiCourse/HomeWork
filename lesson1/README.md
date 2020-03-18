@@ -16,3 +16,5 @@
 | 022 | oneblockplus.id | https://serene-brown-8d414f.netlify.com |
 | 017 | qinyouyi.id.blockstack | just-a-test-site.netlify.com |
 | 022 | dannysun85.id.blockstack | https://dannysun85.netlify.com |
+| 026 | eri0xzhang.id.blockstack | https://animalkingdom-eri0x.netlify.com/ |
+
