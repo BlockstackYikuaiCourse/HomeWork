@@ -17,4 +17,5 @@
 | 017 | qinyouyi.id.blockstack | just-a-test-site.netlify.com |
 | 022 | dannysun85.id.blockstack | https://dannysun85.netlify.com |
 | 023 | yadongcao.id.blockstack | https://blockstackyadongcao.netlify.com/ |
+| 025 | fanjinhui.id.blockstack | fanjinhui.netlify.com |
 | 026 | eri0xzhang.id.blockstack | https://animalkingdom-eri0x.netlify.com/ |
