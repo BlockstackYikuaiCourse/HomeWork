@@ -23,3 +23,5 @@
 | 029 | kendallwu.id | https://animalkingdom-kendall.netlify.com/ |
 | 003 | zinai.id | https://animalkingdom-zinai.netlify.com |
 | 005 | leapming.id.blockstack | https://vigorous-shockley-dcaba7.netlify.com |
+| 07 | jianghua.id.blockstack | https://adoring-torvalds-1ba8a1.netlify.com |
+
