@@ -6,4 +6,5 @@
 |---|---|---|
 | 000 | gavin.id | https://upbeat-yonath-bca9ef.netlify.com |
 | 022 | oneblockplus.id | https://serene-brown-8d414f.netlify.com |
+| 028 | yanghyper.id | https://animal-kingdom-bulianxin.netlify.com |
 
