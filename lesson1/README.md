@@ -15,3 +15,14 @@
 | 020 | jasonrzx.id.blockstack | https://jsrzx.netlify.com |
 | 022 | oneblockplus.id | https://serene-brown-8d414f.netlify.com |
 | 017 | qinyouyi.id.blockstack | just-a-test-site.netlify.com |
+| 022 | dannysun85.id.blockstack | https://dannysun85.netlify.com |
+| 023 | yadongcao.id.blockstack | https://blockstackyadongcao.netlify.com/ |
+| 025 | fanjinhui.id.blockstack | fanjinhui.netlify.com |
+| 026 | eri0xzhang.id.blockstack | https://animalkingdom-eri0x.netlify.com/ |
+| 027 | blockstackdrun.id.blockstack | https://infallible-montalcini-6ea88e.netlify.com |
+| 029 | kendallwu.id | https://animalkingdom-kendall.netlify.com/ |
+| 003 | zinai.id | https://animalkingdom-zinai.netlify.com |
+| 005 | leapming.id.blockstack | https://vigorous-shockley-dcaba7.netlify.com |
+| 07 | jianghua.id.blockstack | https://adoring-torvalds-1ba8a1.netlify.com |
+| 001 | liaoshifu.id | https://friendly-jang-a3600e.netlify.com |
+
