@@ -15,3 +15,4 @@
 | 学号 |BNS 域名、子域名 | 产品的Github 仓库地址 | 部署Netlify的地址 |
 |---|---|---|---|
 | 000 | gavin.id | https://github.com/BlockstackYikuaiCourse/Blockstack-MessageBoard | https://bsmessboard.netlify.com/ |
+| 014 | huangyan0914.id.blockstack | https://github.com/huangyan0914/blockstack-my-raffle | https://raffledemo.netlify.com/ |
