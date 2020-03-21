@@ -25,4 +25,12 @@
 | 026 | eri0xzhang.id.blockstack | https://animalkingdom-eri0x.netlify.com/ |
 | 027 | blockstackdrun.id.blockstack | https://infallible-montalcini-6ea88e.netlify.com |
 | 029 | kendallwu.id | https://animalkingdom-kendall.netlify.com/ |
+<<<<<<< HEAD
 >>>>>>> f04e05e52b0b982df13efee78ebca4f5a0d77035
+=======
+| 003 | zinai.id | https://animalkingdom-zinai.netlify.com |
+| 005 | leapming.id.blockstack | https://vigorous-shockley-dcaba7.netlify.com |
+| 07 | jianghua.id.blockstack | https://adoring-torvalds-1ba8a1.netlify.com |
+| 001 | liaoshifu.id | https://friendly-jang-a3600e.netlify.com |
+
+>>>>>>> e06f39e22d77ec774ed43baf5fa8cfa711061cb1

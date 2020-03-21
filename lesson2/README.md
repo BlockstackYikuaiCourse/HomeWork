@@ -16,3 +16,8 @@
 |---|---|---|---|
 | 000 | gavin.id | https://github.com/BlockstackYikuaiCourse/Blockstack-MessageBoard | https://bsmessboard.netlify.com/ |
 | 019 | zhuangjun.id | https://github.com/zhuangjun/blockstack-instagram | https://blockstack-instagram.netlify.com/ |
+| 028 | yanghyper.id | https://github.com/bulianxin/stock-exchange | https://stock-exchange-de.netlify.com/ |
+
+
+
+
