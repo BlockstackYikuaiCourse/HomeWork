@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # lesson1
 
 ## 提交作业格式
@@ -15,10 +14,6 @@
 | 018 | zhuangjun.id | https://animal-kingdom-zhuangjun.netlify.com/ |
 | 020 | jasonrzx.id.blockstack | https://jsrzx.netlify.com |
 | 022 | oneblockplus.id | https://serene-brown-8d414f.netlify.com |
-<<<<<<< HEAD
-| 028 | yanghyper.id | https://animal-kingdom-bulianxin.netlify.com |
-
-=======
 | 017 | qinyouyi.id.blockstack | just-a-test-site.netlify.com |
 | 022 | dannysun85.id.blockstack | https://dannysun85.netlify.com |
 | 023 | yadongcao.id.blockstack | https://blockstackyadongcao.netlify.com/ |
@@ -26,24 +21,8 @@
 | 026 | eri0xzhang.id.blockstack | https://animalkingdom-eri0x.netlify.com/ |
 | 027 | blockstackdrun.id.blockstack | https://infallible-montalcini-6ea88e.netlify.com |
 | 029 | kendallwu.id | https://animalkingdom-kendall.netlify.com/ |
-<<<<<<< HEAD
->>>>>>> f04e05e52b0b982df13efee78ebca4f5a0d77035
-=======
 | 003 | zinai.id | https://animalkingdom-zinai.netlify.com |
 | 005 | leapming.id.blockstack | https://vigorous-shockley-dcaba7.netlify.com |
 | 07 | jianghua.id.blockstack | https://adoring-torvalds-1ba8a1.netlify.com |
 | 001 | liaoshifu.id | https://friendly-jang-a3600e.netlify.com |
-
->>>>>>> e06f39e22d77ec774ed43baf5fa8cfa711061cb1
-=======
-# lesson1
-
-## 提交作业格式
-
-| 学号 |BNS 域名、子域名 | Netlify 地址 |
-|---|---|---|
-| 000 | gavin.id | https://upbeat-yonath-bca9ef.netlify.com |
-| 022 | oneblockplus.id | https://serene-brown-8d414f.netlify.com |
 | 028 | yanghyper.id | https://animal-kingdom-bulianxin.netlify.com |
-
->>>>>>> b794bdd11b41c6d71ce9c5ec0a23276dc887fc6a
