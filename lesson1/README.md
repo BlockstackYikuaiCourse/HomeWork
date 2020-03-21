@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # lesson1
 
 ## 提交作业格式
@@ -34,3 +35,15 @@
 | 001 | liaoshifu.id | https://friendly-jang-a3600e.netlify.com |
 
 >>>>>>> e06f39e22d77ec774ed43baf5fa8cfa711061cb1
+=======
+# lesson1
+
+## 提交作业格式
+
+| 学号 |BNS 域名、子域名 | Netlify 地址 |
+|---|---|---|
+| 000 | gavin.id | https://upbeat-yonath-bca9ef.netlify.com |
+| 022 | oneblockplus.id | https://serene-brown-8d414f.netlify.com |
+| 028 | yanghyper.id | https://animal-kingdom-bulianxin.netlify.com |
+
+>>>>>>> b794bdd11b41c6d71ce9c5ec0a23276dc887fc6a
