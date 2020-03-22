@@ -22,4 +22,4 @@
 | 017 | qinyouyi.id.blockstack | https://github.com/youyiqin/i-mages  | https://i-mages.netlify.com/ |
 | 022 | oneblockplus.id |https://github.com/oneblocktest/mychart.git | https://brave-goldstine-234507.netlify.com/ |
 | 025 | fanjinhui.id.blockstack | https://github.com/ennea8/PIMStack.git |https://hardcore-jennings-624e42.netlify.com/｜
-
+| 026 | eri0xzhang.id.blockstack |https://github.com/jingleizhang/Blockstack-AuthDemo  | https://blackstack-auth-demo.netlify.com/ |
