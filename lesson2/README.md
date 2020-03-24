@@ -20,6 +20,7 @@
 | 007 | jianghua.id.blockstack | https://github.com/rectinajh/D-OnlineGraveSweeping| https://agitated-meitner-9be0cf.netlify.com |
 | 009 | tingalin.id.blockstack| https://github.com/TingALin/blockstack_searchbars | https://blockstack-searchbars.netlify.com |
 | 010 | yixiuyixiu.id | https://github.com/iyranly/Honeybees | https://honeybees.netlify.com/ |
+| 012 | brightshadowx.id.blockstack | https://github.com/alanpoon/blockstack_fontawesome | https://font-awesome.netlify.com |
 | 014 | huangyan0914.id.blockstack | https://github.com/huangyan0914/blockstack-my-raffle | https://raffledemo.netlify.com/ |
 | 018 | zhuangjun.id | https://github.com/zhuangjun/blockstack-instagram | https://blockstack-instagram.netlify.com/ |
 | 019 | kuoyehshen.id.blockstack | https://github.com/kuoyehs/Blockstack-Youtube | https://blockstack-youtube.netlify.com/ |
