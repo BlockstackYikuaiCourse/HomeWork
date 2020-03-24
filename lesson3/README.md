@@ -18,3 +18,7 @@
 | 学号 |BNS 域名、子域名 | 产品的Github 仓库地址 | 部署Netlify的地址 |
 |---|---|---|---|
 | 000 | gavin.id | https://github.com/BlockstackYikuaiCourse/Blockstack-MessageBoard | https://bsmessboard.netlify.com/ |
+| 018 | zhuangjun.id | https://github.com/zhuangjun/blockstack-instagram | https://blockstack-instagram.netlify.com/ |
+| 019 | kuoyehshen.id.blockstack | https://github.com/kuoyehs/Blockstack-Youtube | https://blockstack-youtube.netlify.com/ |
+| 020 | jasonrzx.id.blockstack | https://github.com/jsrzx/BlockstackPan | https://pan-blockstack.netlify.com/ |
+| 021 | oneblockplus.id |https://github.com/oneblocktest/mychart.git | https://brave-goldstine-234507.netlify.com/ |
