@@ -28,7 +28,6 @@
 | 019 | kuoyehshen.id.blockstack | https://github.com/kuoyehs/Blockstack-Youtube | https://blockstack-youtube.netlify.com/ |
 | 020 | jasonrzx.id.blockstack | https://github.com/jsrzx/BlockstackPan | https://pan-blockstack.netlify.com/ |
 | 017 | qinyouyi.id.blockstack | https://github.com/youyiqin/i-mages  | https://i-mages.netlify.com/ |
-| 019 | zhuangjun.id | https://github.com/zhuangjun/blockstack-instagram | https://blockstack-instagram.netlify.com/ |
 | 022 | oneblockplus.id |https://github.com/oneblocktest/mychart.git | https://brave-goldstine-234507.netlify.com/ |
 | 023 | yadongcao.id.blockstack | https://github.com/yadongcao/interbank_exchange | https://interbankexchange.netlify.com/ |
 | 025 | fanjinhui.id.blockstack | https://github.com/ennea8/PIMStack.git |https://hardcore-jennings-624e42.netlify.com/｜
