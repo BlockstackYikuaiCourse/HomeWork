@@ -12,6 +12,7 @@
 | 008 | wangyang.id | https://suspicious-perlman-04da6a.netlify.com |
 | 009 | tingalin.id.blockstack | https://animal-kingdom-tingalin.netlify.com |
 | 010 | yixiuyixiu.id | https://animal-yixiu.netlify.com/ |
+| 012 | brightshadowx.id.blockstack | https://brighshadowx-animal-kingdom.netlify.com |
 | 013 | zhangyingjie.id.blockstack | https://goofy-nightingale-9d37a8.netlify.com/ |
 | 014 | huangyan0914.id.blockstack | https://keen-lumiere-775087.netlify.com |
 | 015 | joon_sixsence.id.blockstack | https://sixsence-animal-kingdom.netlify.com |
