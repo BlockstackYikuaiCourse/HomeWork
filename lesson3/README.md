@@ -28,12 +28,8 @@
 | 018 | zhuangjun.id | https://github.com/zhuangjun/blockstack-instagram | https://blockstack-instagram.netlify.com/ |
 | 019 | kuoyehshen.id.blockstack | https://github.com/kuoyehs/Blockstack-Youtube | https://blockstack-youtube.netlify.com/ |
 | 020 | jasonrzx.id.blockstack | https://github.com/jsrzx/BlockstackPan | https://pan-blockstack.netlify.com/ |
-<<<<<<< HEAD
 | 021 | oneblockplus.id |https://github.com/oneblocktest/mychart.git | https://brave-goldstine-234507.netlify.com/ |
 | 023 | yadongcao.id.blockstack | https://github.com/yadongcao/interbank_exchange | https://interbankexchange.netlify.com/ |
 | 025 | fanjinhui.id.blockstack | https://github.com/ennea8/PIMStack.git | https://pimstack.netlify.com/ |
 | 026 | eri0xzhang.id.blockstack |https://github.com/jingleizhang/Blockstack-AuthDemo  | https://blackstack-auth-demo.netlify.com/ |
 | 027 | blockstackdrun.id.blockstack | https://github.com/dengrun/DPassword | https://keen-lichterman-b05a08.netlify.com/ |
-=======
-| 021 | oneblockplus.id |https://github.com/oneblocktest/mychart.git | https://brave-goldstine-234507.netlify.com/ |
->>>>>>> 202b44d6d1826b37eda80e92a799203a8d129f63
