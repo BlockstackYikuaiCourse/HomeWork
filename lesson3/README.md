@@ -18,6 +18,7 @@
 | 学号 |BNS 域名、子域名 | 产品的Github 仓库地址 | 部署Netlify的地址 |
 |---|---|---|---|
 | 000 | gavin.id | https://github.com/BlockstackYikuaiCourse/Blockstack-MessageBoard | https://bsmessboard.netlify.com/ |
+| 008 | wangyang.id | https://github.com/WangYangA9/AnonymousChatBlockstack | https://nostalgic-kepler-310522.netlify.com/ |
 | 010 | yixiuyixiu.id | https://github.com/iyranly/Honeybees | https://honeybees.netlify.com/ |
 | 012 | brightshadowx.id.blockstack | https://github.com/alanpoon/blockstack_fontawesome | https://font-awesome.netlify.com |
 | 014 | huangyan0914.id.blockstack | https://github.com/huangyan0914/blockstack-my-raffle | https://raffledemo.netlify.com/ |
