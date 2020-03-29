@@ -17,8 +17,12 @@
 | 000 | gavin.id | https://github.com/BlockstackYikuaiCourse/Blockstack-MessageBoard | https://bsmessboard.netlify.com/ |
 | 001 | liaoshifu.id.blockstack | https://github.com/lshoo/blockstack-todo-mvc | https://clever-wescoff-0e39cb.netlify.com/ |
 | 003 | zinai.id | https://github.com/ZiNai/comments-d | https://comments-d.netlify.com/ |
+<<<<<<< HEAD
 | 007 | jianghua.id.blockstack | https://github.com/rectinajh/D-OnlineGraveSweeping| https://agitated-meitner-9be0cf.netlify.com 
 | 008 | wangyang.id | https://github.com/WangYangA9/AnonymousChatBlockstack | https://nostalgic-kepler-310522.netlify.com/ |
+=======
+| 007 | jianghua.id.blockstack | https://github.com/rectinajh/D-OnlineGraveSweeping| https://agitated-meitner-9be0cf.netlify.com |
+>>>>>>> 202b44d6d1826b37eda80e92a799203a8d129f63
 | 009 | tingalin.id.blockstack| https://github.com/TingALin/blockstack_searchbars | https://blockstack-searchbars.netlify.com |
 | 010 | yixiuyixiu.id | https://github.com/iyranly/Honeybees | https://honeybees.netlify.com/ |
 | 012 | brightshadowx.id.blockstack | https://github.com/alanpoon/blockstack_fontawesome | https://font-awesome.netlify.com |
