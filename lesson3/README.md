@@ -1,8 +1,7 @@
 # lesson3
 
 ## 作业提示
-
-可以参考我提供的 [Demo 仓库](https://github.com/BlockstackYikuaiCourse/Blockstack-MessageBoard) 来完成数据存储部分的Demo升级
+可以参考我提供的 Demo 仓库 来完成数据存储部分的Demo升级
 
 产品原型可以fork并且拷贝我的代码上传到自己新建的项目仓库中，但是不要直接提交fork的刹那控股地址，因为最终大家要完成自己的产品！
 
@@ -10,8 +9,8 @@
 
 最后将自己的产品部署到Netlify上，部署产品有加分
 
-- 本节课的作业分数组成：产品的数据存储部分设计流程图 + 产品数据存储部分代码
-- 本节课作业检查方式：Github仓库地址检查存储部分设计流程图 + Netlify检查存储部分代码是否实现
+本节课的作业分数组成：产品的数据存储部分设计流程图 + 产品数据存储部分代码
+本节课作业检查方式：Github仓库地址检查存储部分设计流程图 + Netlify检查存储部分代码是否实现
 
 ## 提交作业格式
 
@@ -33,3 +32,6 @@
 | 025 | fanjinhui.id.blockstack | https://github.com/ennea8/PIMStack.git | https://pimstack.netlify.com/ |
 | 026 | eri0xzhang.id.blockstack |https://github.com/jingleizhang/Blockstack-AuthDemo  | https://blackstack-auth-demo.netlify.com/ |
 | 027 | blockstackdrun.id.blockstack | https://github.com/dengrun/DPassword | https://keen-lichterman-b05a08.netlify.com/ |
+| 07 | jianghua.id.blockstack | https://github.com/rectinajh/D-OnlineGraveSweeping|
+keen-franklin-edd29e.netlify.com |
+
