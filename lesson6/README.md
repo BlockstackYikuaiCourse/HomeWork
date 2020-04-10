@@ -13,3 +13,4 @@
 |---|---|---|---|
 | 000 | gavin.id | https://github.com/BlockstackYikuaiCourse/Blockstack-MessageBoard | https://bsmessboard.netlify.com/ |
 | 020 | jasonrzx.id.blockstack | https://github.com/jsrzx/BlockstackPan | https://pan-blockstack.netlify.com/ |
+| 026 | eri0xzhang.id.blockstack | https://github.com/jingleizhang/Blockstack-AuthDemo | https://blackstack-auth-demo.netlify.com/ |
