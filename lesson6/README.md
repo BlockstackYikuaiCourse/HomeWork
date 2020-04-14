@@ -13,4 +13,8 @@
 |---|---|---|---|
 | 000 | gavin.id | https://github.com/BlockstackYikuaiCourse/Blockstack-MessageBoard | https://bsmessboard.netlify.com/ |
 | 001 | liaoshifu.id.blockstack | https://github.com/lshoo/blockstack-todo-mvc | https://clever-wescoff-0e39cb.netlify.com/ |
+| 021 | oneblockplus.id.blockstack | https://github.com/oneblocktest/blockstack-mind | https://blockstack-mind.netlify.com/ |
 | 020 | jasonrzx.id.blockstack | https://github.com/jsrzx/BlockstackPan | https://pan-blockstack.netlify.com/ |
+| 017 | qinyouyi.id.blockstack | https://github.com/youyiqin/i-mages | https://i-mages.netlify.com/ |
+| 026 | eri0xzhang.id.blockstack | https://github.com/jingleizhang/Blockstack-AuthDemo | https://blackstack-auth-demo.netlify.com/ |
+| 023 | yadongcao.id.blockstack | https://github.com/yadongcao/interbank_exchange | https://interbankexchange.netlify.com/ |
