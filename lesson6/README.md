@@ -12,6 +12,7 @@
 | 学号 |BNS 域名、子域名 | 产品的Github 仓库地址 | 部署Netlify的地址 |
 |---|---|---|---|
 | 000 | gavin.id | https://github.com/BlockstackYikuaiCourse/Blockstack-MessageBoard | https://bsmessboard.netlify.com/ |
+| 008 | wangyang.id | https://github.com/WangYangA9/AnonymousChatBlockstack | https://nostalgic-kepler-310522.netlify.com/ |
 | 021 | oneblockplus.id.blockstack | https://github.com/oneblocktest/blockstack-mind | https://blockstack-mind.netlify.com/ |
 | 020 | jasonrzx.id.blockstack | https://github.com/jsrzx/BlockstackPan | https://pan-blockstack.netlify.com/ |
 | 017 | qinyouyi.id.blockstack | https://github.com/youyiqin/i-mages | https://i-mages.netlify.com/ |
